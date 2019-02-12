@@ -14,5 +14,10 @@ public class pac1 {
 	{
 		
 	}
+	public static void main(String[] args) {
+		pac1 obj=new pac1();
+	obj.m3();
+	obj.m1();
+	}
 	
 	}
