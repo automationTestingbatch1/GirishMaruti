@@ -7,4 +7,12 @@ public class pac1 {
 	public void m3() {
 		System.out.println("m1+m3");
 	}
+	public void m4() {
+		
+	}
+	public static void main()
+	{
+		
+	}
+	
 	}
